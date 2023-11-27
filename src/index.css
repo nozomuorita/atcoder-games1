@@ -14,9 +14,9 @@
   margin: 0;
   padding: 0;
   overflow-x: hidden;
-  background-image: url("./assets/image/bg.jpg");
+  /* background-image: url("./assets/image/bg.jpg"); */
 }
-.overlay {
+/* .overlay {
   position: absolute;
   top: 0;
   left: 0;
@@ -25,7 +25,7 @@
   background-color: black;
   opacity: 0.5;
   z-index: -1;
-}
+} */
 .wrapper{
   z-index: 1000;
 }
